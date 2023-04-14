@@ -1,3 +1,3 @@
 # ggmody
 
-## modified ggplot2 by custom
+## modified ggplot2 by custom setting
